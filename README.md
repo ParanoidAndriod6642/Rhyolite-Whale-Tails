@@ -8,7 +8,7 @@ Made using ELAM’s Combined LAPIDARY TRIM SAW AND CABBING MACHINE, and their st
 Cut purple dotted lines (1,2) with trim saw for basic shape and smooth to green curves (3) with cabbing machine.
  
 ![alt text](https://github.com/ParanoidAndriod6642/Rhyolite-Whale-Tails/blob/main/WhaleTail1.png "Whale Tail Diagram 1"),
-![alt text] (https://github.com/ParanoidAndriod6642/Rhyolite-Whale-Tails/blob/main/WhaleTail2.png "Whale Tail Diagram 2).
+![alt text] (https://github.com/ParanoidAndriod6642/Rhyolite-Whale-Tails/blob/main/WhaleTail2.png "Whale Tail Diagram 2").
 
 Here's our logo (hover to see the title text):
 Polish the whole surface from 100 grit to 600 grit with cabbing machine and 100-600grit polishing paper
