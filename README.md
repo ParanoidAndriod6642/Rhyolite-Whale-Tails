@@ -18,4 +18,4 @@ Make hole through the red circle (3) with drill piece to finish.
 ## Labour
 1 session to cut and smooth edges, another session for hole and polish, 1hr total.
 Additionally help from Elam staff to maintain, assist and allow use of workshop.
-![image](https://github.com/user-attachments/assets/3124fb05-2c5d-4edd-bdef-e74a596e9592)
+
