@@ -1,5 +1,5 @@
 # Rhyolite-Whale-Tails
-![alt text](https://github.com/ParanoidAndriod6642/Rhyolite-Whale-Tails/blob/main/WhaleTail Rhyolite.png "Whale Tails")
+![alt text](https://github.com/ParanoidAndriod6642/Rhyolite-Whale-Tails/blob/main/WhaleTail%20Rhyolite.png "Whale Tails")
 Documentation for creating Whale Tail Necklaces with Banded Rhyolite
 ## Materials
 Flow Banded Rhyolite found in Queenstown on Lake Wakatipu near Jacks Point/Robbie’s beach on waterfront.
